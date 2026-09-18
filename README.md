@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpringTsuki&show_icons=true&theme=radical)
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=SpringTsuki&theme=cupcake)
