@@ -6,7 +6,7 @@
 
 <sub>Devops · Minecrafter · 偶尔写些妙妙小工具</sub>
 
-<img src="https://kgnio-profile-card.vercel.app/api/card?user=SpringTsuki&theme=cupcake" alt="GitHub Profile Stats" />
+<img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpringTsuki&show_icons=true&theme=rose_pine) />
 
 </div>
 
