@@ -4,7 +4,7 @@
 
 **🌸 Hi, Tsuki is there! 🌸**
 
-<sub>Devops · Minecrafter · 偶尔写些妙妙小工具</sub>
+<sub>DevOps · Minecrafter · 偶尔写些妙妙小工具</sub>
 
 <img src="https://raw.githubusercontent.com/SpringTsuki/profile-stats-card/main/public/card.svg" alt="GitHub Profile Stats" />
 
