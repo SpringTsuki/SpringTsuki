@@ -6,7 +6,7 @@
 
 <sub>Devops · Minecrafter · 偶尔写些妙妙小工具</sub>
 
-<img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpringTsuki&show_icons=true&theme=rose_pine) />
+<img src="https://raw.githubusercontent.com/SpringTsuki/profile-stats-card/main/public/card.svg" alt="GitHub Profile Stats" />
 
 </div>
 
